@@ -1,1 +1,9 @@
-@import 'tailwindcss'
+@import 'tailwindcss';
+
+/* index.css */
+body {
+  background-color: #0f0f0f; /* ou imagem de fundo */
+  color: white; /* opcional */
+  margin: 0;
+  font-family: sans-serif;
+}
